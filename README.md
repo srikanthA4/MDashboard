@@ -8,4 +8,4 @@ This is a simple User Management Dashboard that interacts with the **JSONPlaceho
 
    ```bash
    git clone 
-   cd user-management-dashboard
+   cd MDashboard
